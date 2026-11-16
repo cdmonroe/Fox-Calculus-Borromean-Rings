@@ -9,7 +9,7 @@ For more on Fox Calculus, I highly recommend Goldman's "Parallelism on Lie group
 To see the computations for Theorem \ref{thm:H1H4}: 
 use "computing h1 deformation into r31.nb"
 
-To see the computations for Theorem \ref{thm:H1H4}: 
+To see the computations for Theorem \ref{thm:HPG}: 
 use "computing h1 deformation into nu4.nb"
 
 To see the computations for Section \ref{subsec:sl4}: 
